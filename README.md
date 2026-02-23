@@ -4,7 +4,7 @@
 [![Live Application](https://img.shields.io/badge/Launch-Research_Analyzer-blue?style=for-the-badge&logo=google-chrome)](https://researchanalyzer.kit62.com/)
 [![Powered by Gemini](https://img.shields.io/badge/Powered_by-Gemini_AI_models-orange?style=for-the-badge)](https://aistudio.google.com/)
 
-[![Interactive Demo](https://img.shields.io/badge/Report_Example-See_Our_Demo-success?style=for-the-badge&logo=github)](https://MiApps2026.github.io/research-analyzer/demo.html)
+[![Interactive Demo](https://img.shields.io/badge/Report_Example-See_Our_Demo-success?style=for-the-badge&logo=github)](https://miapps2026.github.io/AI-RESEARCH-ANALYZER/demo.html)
 
 
 **Research Analyzer** is a free, client-side web application designed to accelerate literature reviews and scientific paper analysis. By leveraging the power of Google's Gemini AI, it transforms complex academic PDFs into interactive, structured, and easy-to-digest dashboards.
@@ -34,7 +34,7 @@ It is built for researchers, PhD students, engineers, and academics who need to 
 ## 🚀 Live Interactive Demo
 Curious about what the output looks like? We have generated a sample report based on a hypothetical scientific paper to demonstrate the tool's capabilities. 
 
-🔗 **[View the Interactive Demo Report Here](https://MiApps2026.github.io/research-analyzer/demo.html)** 
+🔗 **[View the Interactive Demo Report Here](https://miapps2026.github.io/AI-RESEARCH-ANALYZER/demo.html)** 
 
 In this demo, you can see the dynamic diagram, the LaTeX rendering for formulas, and the layout of the extracted insights. Uou can even chat if you already have your api key.
 
