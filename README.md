@@ -3,6 +3,7 @@
 
 [![Live Application](https://img.shields.io/badge/Launch-Research_Analyzer-blue?style=for-the-badge&logo=google-chrome)](https://researchanalyzer.kit62.com/)
 [![Powered by Gemini](https://img.shields.io/badge/Powered_by-Gemini_AI_models-orange?style=for-the-badge)](https://aistudio.google.com/)
+
 [![Interactive Demo](https://img.shields.io/badge/Report_Example-See_Our_Demo-success?style=for-the-badge&logo=github)](https://MiApps2026.github.io/research-analyzer/demo.html)
 
 
