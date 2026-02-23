@@ -34,9 +34,9 @@ It is built for researchers, PhD students, engineers, and academics who need to 
 ## 🚀 Live Interactive Demo
 Curious about what the output looks like? We have generated a sample report based on a hypothetical scientific paper to demonstrate the tool's capabilities. 
 
-🔗 **[View the Interactive Demo Report Here](https://tu-usuario.github.io/research-analyzer/)** *(Nota para ti: Cambia este enlace por el de tu GitHub Pages cuando lo actives).*
+🔗 **[View the Interactive Demo Report Here](https://MiApps2026.github.io/research-analyzer/demo.html)** 
 
-In this demo, you can see the dynamic Mermaid diagrams, the LaTeX rendering for chemical and mathematical formulas, and the layout of the extracted insights.
+In this demo, you can see the dynamic diagram, the LaTeX rendering for formulas, and the layout of the extracted insights. Uou can even chat if you already have your api key.
 
 ---
 
