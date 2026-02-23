@@ -2,7 +2,7 @@
 # 🔬 Research Analyzer: Advanced AI Assistant for Scientific Papers
 
 [![Live Application](https://img.shields.io/badge/Launch-Research_Analyzer-blue?style=for-the-badge&logo=google-chrome)](https://researchanalyzer.kit62.com/)
-[![Powered by Gemini](https://img.shields.io/badge/Powered_by-Gemini_2.5_Flash-orange?style=for-the-badge)](https://aistudio.google.com/)
+[![Powered by Gemini](https://img.shields.io/badge/Powered_by-Gemini_AI_models-orange?style=for-the-badge)](https://aistudio.google.com/)
 
 **Research Analyzer** is a free, client-side web application designed to accelerate literature reviews and scientific paper analysis. By leveraging the power of Google's Gemini AI, it transforms complex academic PDFs into interactive, structured, and easy-to-digest dashboards.
 
