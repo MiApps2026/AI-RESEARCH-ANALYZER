@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /*.md$
+Disallow: /*.pdf$
+
+Sitemap: https://miapps2026.github.io/AI-RESEARCH-ANALYZER-Intelligent-pdf-and-papers-analysis/sitemap.xml
